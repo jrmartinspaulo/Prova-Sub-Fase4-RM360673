@@ -1,0 +1,44 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter / cache
+.ipynb_checkpoints/
+
+# HuggingFace cache local
+.cache/
+hf_cache/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Model checkpoints intermediários
+models/checkpoint-*/
+
+# PyTorch / treinamento temporário
+runs/
+trainer_state.json
+optimizer.pt
+scheduler.pt
+rng_state.pth
+
+# Cobertura e testes
+htmlcov/
+.coverage
+.pytest_cache/
