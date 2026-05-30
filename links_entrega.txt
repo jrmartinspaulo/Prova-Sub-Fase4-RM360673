@@ -1,0 +1,13 @@
+PROVA SUBSTITUTIVA FASE 4 - MACHINE LEARNING ENGINEERING
+
+Aluno: Paulo Sérgio Martins Junior
+Projeto: BookCraft AI - Gerador de Sinopses Literárias com IA Generativa
+
+Link do repositório GitHub:
+https://github.com/jrmartinspaulo/Prova-Sub-Fase4-RM360673
+
+Link do deployment no Streamlit:
+https://prova-sub-fase4-rm360673-6j6kuugxbwaterc7c8psvv.streamlit.app
+
+Link do vídeo explicativo:
+https://www.youtube.com/watch?v=NRH-5lLlujs
