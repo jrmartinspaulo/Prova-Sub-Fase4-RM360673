@@ -125,9 +125,6 @@ config_generos = {
     }
 }
 
-# Para manter o código menor e robusto, replicamos a mesma lógica para os demais gêneros
-# já criados anteriormente, usando isolamento semântico por listas próprias.
-
 config_generos.update({
     "Ficção Científica": {
         "subgeneros": ["space opera", "cyberpunk", "IA e consciência", "exploração espacial"],
